@@ -11,8 +11,8 @@ tags: [firefox, extension, private mode, private browsing, auto fill]
 The bitwarden extension does not load when I open it in Firefox Private Browsing so I am unable to auto-fill forms.
 
 ## Workaround
-1. Navigate to the website's login page
+If the bitwarden extension is locked (little red lock icon), unlock it in a non-private Firefox window before proceeding.
+1. Navigate to the website's login page in Firefox Private Browsing
 2. Right click the page
     - A context menu will appear
-3. Select **bitwarden > Auto-fill > The website**
-    - If **Vault is locked.** appears, unlock the browser extension from a non-private Firefox window
+3. Select **bitwarden > Auto-fill > the website**
