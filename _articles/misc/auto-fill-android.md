@@ -7,7 +7,7 @@ popular: false
 tags: [android, auto fill]
 ---
 
-## Enable the service
+## Enabling the service
 1. Open the bitwarden app
 2. Tap **Tools > bitwarden Auto-fill Service**
     - *Status Disabled* will appear
@@ -16,7 +16,7 @@ tags: [android, auto fill]
 
 Auto-fill is context-sensitive. This means that the bitwarden auto-fill icon, and notification will only appear when it detects a login form or when the password field is selected. It should be noted that the auto-fill service does not currently work when logging into a website from your mobile web browser.
 
-## Test auto-fill
+## Testing auto-fill
 1. Open an app that has not been signed in to
 2. Tap the password box
     - The bitwarden icon will appear in the notification bar
@@ -24,3 +24,6 @@ Auto-fill is context-sensitive. This means that the bitwarden auto-fill icon, an
     - Your vault will display all matching logins otherwise you may need to manually search for it
 4. Tap the appropriate login
     - Your username and password will be auto-filled
+
+## Notes
+
