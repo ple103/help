@@ -14,6 +14,6 @@ tags: [android, auto fill]
 3. Tap **OPEN ACCESSIBILITY SETTINGS**
 4. Locate **bitwarden** from the list and enable it
 
-Auto-fill is context-sensitive. This means that the bitwarden auto-fill icon and notification will only appear when it detects a login form or when the password field is selected.
+Auto-fill is context-sensitive. This means that the bitwarden auto-fill icon, and notification will only appear when it detects a login form or when the password field is selected. It should be noted that the auto-fill service does not currently work when logging into a website from your mobile web browser.
 
 ## Test auto-fill
