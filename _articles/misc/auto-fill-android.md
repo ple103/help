@@ -25,5 +25,9 @@ Auto-fill is context-sensitive. This means that the bitwarden auto-fill icon, an
 4. Tap the appropriate login
     - Your username and password will be auto-filled
 
-## Notes
+## Troubleshooting
+**The bitwarden Auto-fill Service keeps getting disabled**
 
+Android may turn off the bitwarden Auto-fill Service to optimize battery life. To resolve this you can either:
+- Tell Android to ignore battery optimization for the bitwarden; or
+- Manually turn on the bitwarden Auto-fill Service each time
