@@ -31,3 +31,5 @@ Auto-fill is context-sensitive. This means that the bitwarden auto-fill icon, an
 Android may turn off the bitwarden Auto-fill Service to optimize battery life. To resolve this you can either:
 - Tell Android to ignore battery optimization for the bitwarden; or
 - Manually turn on the bitwarden Auto-fill Service each time
+
+**[Can't auto-fill in my mobile browser](/article/auto-fill-mobile-browser)**
